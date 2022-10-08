@@ -1,0 +1,2 @@
+# searxngfile
+files for searxng
